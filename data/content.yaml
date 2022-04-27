@@ -29,14 +29,9 @@ Experience:
       - Title: Group Lead
         Date: February 2020 - February 2022
         Details:
-          - Member of the group since 2017.
-          - Administers the mailing list server processing over 2.000 emails a day.
           - Helped maintain and upgrade the dorm's network of over 1.000 endpoints.
-          - Developed software capable of detecting users using Network Address Translation.
-          - Migrated part of the dorm's DNS service to a cloud-based solution.
           - Introduced DevOps principles to the SIG's community.
           - Responsible for mission critical services including Hyper-V and Kubernetes.
-          - Represented group's interests in biannual reviews.
         Badges: ['DevOps', 'Leadership', 'Linux', 'Ansible']
   - Employer: Budapest University of Technology and Economics
     Place: Budapest, Hungary
@@ -88,6 +83,10 @@ Skills:
       - Bash scripts
       - Microservices
       - Kotlin webapps
+      - Jinja2
+      - Jaeger
+      - Sentry
+      - Swagger
   - Family: Social
     Items:
       - Team player
@@ -101,12 +100,8 @@ Languages:
   - Name: English
     Level: C2
 
-Diplomas:
-  - ISTQB Tester Certification (2019)
-  - English Cambridge CAE (2009)
-
 Interests:
-  - Reading books
-  - Playing videogames
-  - Watching movies
-  - Listening to music
+  - Books
+  - Videogames
+  - Movies
+  - Music
