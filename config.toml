@@ -1,3 +1,7 @@
 baseURL = 'https://cv.tormakristof.eu/'
 languageCode = 'en-us'
 title = 'Kristóf Torma'
+enableRobotsTXT = true
+enableEmoji = true
+theme = "almeida-cv"
+disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
