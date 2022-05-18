@@ -1,99 +1,58 @@
-BasicInfo:
-  FirstName: Kristóf
-  LastName: Torma
-  Photo: img/avatar.jpg
-  Contacts:
-    - Icon: fas fa-phone
-      Info: +36 30 397 1800
-    - Icon: fas fa-envelope
-      Info: iam@tormakristof.eu
-    - Icon: fas fa-globe
-      Info: tormakristof.eu
-    - Icon: fas fa-map-marker-alt
-      Info: Hungary
+name: Kristóf Torma
+email: iam@tormakristof.eu
+website: tormakristof.eu
+github: tormachris
 
-Experience:
-  - Employer: Nokia
-    Place: Budapest, Hungary
-    Positions:
-      - Title: DevOps Engineer
-        Date: March 2022 - Present
-        Details:
-          - Responsible for Kubernetes clusters
-        Badges: ['Kubernetes', 'Helm', 'Linux', 'Bash', 'Python', 'Agile']
-  - Employer: SIG for Computer Science
-    Place: Budapest, Hungary
-    Positions:
-      - Title: Group Lead
-        Date: February 2020 - February 2022
-        Details:
-          - Helped maintain and upgrade the dorm's network of over 1.000 endpoints.
-          - Introduced DevOps principles to the SIG's community.
-          - Responsible for mission critical services including Hyper-V and Kubernetes.
-        Badges: ['DevOps', 'Leadership', 'Linux', 'Ansible']
-  - Employer: Budapest University of Technology and Economics
-    Place: Budapest, Hungary
-    Positions:
-      - Title: Research Assistant
-        Date: 2020 - 2022
-        Details:
-          - Created a Kubernetes-native system in a 5G network that was capable of recognizing and identifying bird song.
-          - Adapted the system to an edge-computing environment.
-          - Analyzed the performance of and identified bottlenecks in the system.
-        Badges: ['Python', 'Kubernetes', '5G', 'Cloud']
-      - Title: Teaching Assistant
-        Date: 2020 - 2022
-        Details:
-          - Helped other students process the curriculum.
-          - Assisted in the adaptation of the course to a remote environment.
-        Badges: ['Linux', 'Apache', 'Bash', 'Helping']
-  - Employer: Ericsson
-    Place: Budapest, Hungary
-    Positions:
-      - Title: Research Intern
-        Date: Summer, 2019
-        Details:
-          - Built a TOSCA Parser for Ericsson's in-house infrastructure.
-          - Created an interface to connect the application to Ericsson's existing systems.
-          - Deployed Python webapplications on Docker-based infrastructure.
-        Badges: ['Python', 'TOSCA', 'Docker', 'Orchestration']
-
-Education:
-  - Course: BSc & MSc in Computer Engineering
-    Place: Budapest University of Technology and Economics Faculty of Electrical Engineering and Informatics
-    Date: 2016 - 2022
-    Details: Specialized in Internet Architecture and Services at Department of Telecommunications and Media Informatics
-
-Skills:
-  - Family: DevOps and Infrastructure
-    Items:
-      - Cisco network administration
-      - Linux server administration
-      - Jenkins, Travis, GitLab, Drone CI
-      - Windows Server administration
-      - KVM virtualization
-      - Ansible
-      - Terraform
-      - Azure
-  - Family: Programming
-    Items:
-      - Python scripts and Flask webapps
-      - Bash scripts
-      - Microservices
-      - Kotlin webapps
-      - Jinja2
-      - Jaeger
-      - Sentry
-      - Swagger
-  - Family: Social
-    Items:
-      - Team player
-      - Fast learner
-      - Proactive player
-      - AWS
-
-Languages:
-  - Name: Hungarian
-    Level: Native
-  - Name: English
-    Level: C2
+sections:
+  - heading: Education
+    subsections:
+    - heading:
+        label: BSc in Computer Engineering @ BME
+        startdate: September 2016
+        enddate: January 2020
+      degrees:
+        - Diploma
+    - heading:
+        label: MSc in Computer Engineering @ BME
+        startdate: February 2020
+        enddate: January 2022
+      degrees:
+        - Diploma
+  - heading: Experience
+    subsections:
+    - heading:
+        label: DevOps Engineer @ Nokia
+        startdate: March 2022
+      points:
+      - "Looks after labs."
+    - heading:
+        label: Group Lead of SIG for Computer Science
+        startdate: February 2020
+        enddate: February 2022
+      points:
+        - Helped maintain and upgrade the dorm's network of over 1.000 endpoints.
+        - Introduced DevOps principles to the SIG's community.
+        - Responsible for mission critical services including Hyper-V and Kubernetes.
+    - heading:
+        label: Research Assistant @ Budapest University of Technology and Economics
+        startdate: February 2020
+        enddate: January 2022
+      points:
+        - Created a Kubernetes-native system in a 5G network that was capable of recognizing and identifying bird song.
+        - Adapted the system to an edge-computing environment.
+        - Analyzed the performance of and identified bottlenecks in the system.
+    - heading:
+        label: Teaching Assistant @ Budapest University of Technology and Economics
+        startdate: February 2020
+        enddate: January 2022
+      points:
+        - Helped other students process the curriculum.
+        - Assisted in the adaptation of the course to a remote environment.
+    - heading:
+        label: Research Intern @ Ericsson
+        startdate: June 2019
+        enddate: August 2019
+      points:
+        - Built a TOSCA Parser for Ericsson's in-house infrastructure.
+        - Created an interface to connect the application to Ericsson's existing systems.
+        - Deployed Python webapplications on Docker-based infrastructure.
