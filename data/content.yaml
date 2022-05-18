@@ -61,3 +61,11 @@ sections:
         - Built a TOSCA Parser for Ericsson's in-house infrastructure.
         - Created an interface to connect the application to Ericsson's existing systems.
         - Deployed Python webapplications on Docker-based infrastructure.
+
+  - heading: Skills
+    points:
+      - Python scripts and Flask microservices with Celery workers
+      - Cisco and Linux network administration
+      - KVM and Hyper-V virtualization
+      - Cloud-native orchestration with Kubernetes, Terraform and Ansible
+      - CI with Jenkins, Drone, GitHub Actions, GitLab CI
