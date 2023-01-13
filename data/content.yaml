@@ -25,13 +25,16 @@ sections:
         label: DevOps Engineer @ Nokia
         startdate: March 2022
       points:
-      - "Looks after labs."
+      - Reduced the burden on the Lab Infrastructure Team by simplifying lab infrastructure and developing automations.
+      - Created tools to help developers self-manage certain infrastructure tasks.
+      - Improved developer documentation to speed up newcomers ramp up faster.
     - heading:
         label: Group Lead of SIG for Computer Science
         startdate: February 2020
         enddate: February 2022
       points:
-        - Administers the mailing list server processing over 2.000 emails a day.
+        - Administered the mailing list server processing over 2.000 emails a day.
+        - Fully moved over the dorm's mailing infrastructure to Exchange Online.
         - Helped maintain and upgrade the dorm's network of over 1.000 endpoints.
         - Developed software capable of detecting users using Network Address Translation.
         - Migrated part of the dorm's DNS service to a cloud-based solution.
