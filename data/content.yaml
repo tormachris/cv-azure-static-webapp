@@ -28,6 +28,8 @@ sections:
       - Reduced the burden on the Lab Infrastructure Team by simplifying lab infrastructure and developing automations.
       - Created tools to help developers self-manage certain infrastructure tasks.
       - Improved developer documentation to speed up newcomers ramp up faster.
+      - Reduced monthly AWS spend periodically releasing unused resources.
+      - Resolved Kubernetes issues on an ongoing basis and developed Kubernetes competence among developers. 
     - heading:
         label: Group Lead of SIG for Computer Science
         startdate: February 2020
@@ -35,12 +37,9 @@ sections:
       points:
         - Administered the mailing list server processing over 2.000 emails a day.
         - Fully moved over the dorm's mailing infrastructure to Exchange Online.
-        - Helped maintain and upgrade the dorm's network of over 1.000 endpoints.
-        - Developed software capable of detecting users using Network Address Translation.
         - Migrated part of the dorm's DNS service to a cloud-based solution.
         - Introduced DevOps principles to the SIG's community.
         - Responsible for mission critical services including Hyper-V and Kubernetes.
-        - Represented group's interests in biannual reviews.
     - heading:
         label: Research Assistant @ Budapest University of Technology and Economics
         startdate: February 2020
