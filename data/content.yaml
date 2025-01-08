@@ -30,6 +30,8 @@ sections:
       - Improved developer documentation to speed up newcomers ramp up faster.
       - Reduced monthly AWS spend periodically releasing unused resources.
       - Resolved Kubernetes issues on an ongoing basis and developed Kubernetes competence among developers. 
+      - Designed and implemented an internal API that creates Kubernetes clusters AWS and Azure via Pulumi.
+      - Became technical lead of the DevOps team in 2024 February.
     - heading:
         label: Group Lead of SIG for Computer Science
         startdate: February 2020
@@ -71,3 +73,4 @@ sections:
       - KVM and Hyper-V virtualization
       - Cloud-native orchestration with Kubernetes, Terraform and Ansible
       - CI with Jenkins, Drone, GitHub Actions, GitLab CI
+      - Various cloud platforms including AWS, Azure and on-prem cloud
