@@ -51,13 +51,6 @@ sections:
         - Adapted the system to an edge-computing environment.
         - Analyzed the performance of and identified bottlenecks in the system.
     - heading:
-        label: Teaching Assistant @ Budapest University of Technology and Economics
-        startdate: February 2020
-        enddate: January 2022
-      points:
-        - Helped other students process the curriculum.
-        - Assisted in the adaptation of the course to a remote environment.
-    - heading:
         label: Research Intern @ Ericsson
         startdate: June 2019
         enddate: August 2019
