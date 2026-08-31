@@ -4,12 +4,12 @@ email: iam@tormakristof.eu
 
 sections:
   - heading: Summary
-    body: Scrum Master and technical lead in DevOps and infrastructure at Nokia, working with Kubernetes, infrastructure as code and multi-cloud platforms.
+    body: Technical lead and Scrum Master in DevOps and infrastructure at Nokia, working with Kubernetes, infrastructure as code and multi-cloud platforms.
 
   - heading: Experience
     subsections:
     - heading:
-        label: Scrum Master and Technical Lead @ Nokia
+        label: Technical Lead and Scrum Master  @ Nokia
         startdate: February 2024
       points:
       - Lead a DevOps team that has varied between 6 and 12 engineers.
