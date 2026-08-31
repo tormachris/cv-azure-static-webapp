@@ -1,23 +1,12 @@
 name: Kristof Torma
+address: Budapest, Hungary
 email: iam@tormakristof.eu
 website: tormakristof.eu
 github: tormachris
 
 sections:
-  - heading: Education
-    subsections:
-    - heading:
-        label: BSc in Computer Engineering @ BME
-        startdate: September 2016
-        enddate: January 2020
-      degrees:
-        - Diploma
-    - heading:
-        label: MSc in Computer Engineering @ BME
-        startdate: February 2020
-        enddate: January 2022
-      degrees:
-        - Diploma
+  - heading: Summary
+    body: Scrum Master and technical lead in DevOps and infrastructure at Nokia, working with Kubernetes, infrastructure as code and multi-cloud platforms.
 
   - heading: Experience
     subsections:
@@ -26,55 +15,72 @@ sections:
         startdate: February 2024
       points:
       - Lead a DevOps team that has varied between 6 and 12 engineers.
-      - Evaluated approaches to AI-assisted code attribution and coded the tool that visualizes usage.
+      - Designed and shipped an AI code review agent, rolled out across multiple organizations after a cost analysis against commercial alternatives.
       - Stood up and now lead an internal Infra Team that owns the testing and development labs.
-      - Drove build quality so QA receives a daily product build that has passed every R&D gate.
       - Helped build the R&D organization from inception, onboarding new teams and hardening processes as it grew.
-      - Mentor early-career engineers and support their growth into independent contributors.
-      - Remove impediments and facilitate technical decision-making within the team.
+      - Drive build quality so QA receives a daily product build that has passed every R&D gate.
+      - Built a tool that visualizes AI-assisted code usage, after evaluating git-native approaches to attributing it.
+      - Helped develop code review standards and scope and change management processes with QA and product stakeholders.
     - heading:
         label: DevOps Engineer @ Nokia
         startdate: March 2022
         enddate: February 2024
       points:
-      - Reduced the burden on the Lab Infrastructure Team by simplifying lab infrastructure and developing automations.
-      - Created tools to help developers self-manage certain infrastructure tasks.
-      - Improved developer documentation to help newcomers ramp up faster.
-      - Reduced monthly AWS spend by periodically releasing unused resources.
-      - Resolved Kubernetes issues on an ongoing basis and developed Kubernetes competence among developers.
       - Designed and implemented an internal API that provisions Kubernetes clusters on AWS and Azure via Pulumi.
+      - Simplified lab infrastructure and developed automations that cut the operational load of running the labs.
+      - Resolved Kubernetes issues and built Kubernetes competence across the developer teams.
     - heading:
         label: Group Lead of SIG for Computer Science
         startdate: February 2020
         enddate: February 2022
       points:
         - Administered the mailing list server processing over 2,000 emails a day.
-        - Fully moved over the dorm's mailing infrastructure to Exchange Online.
-        - Migrated part of the dorm's DNS service to a cloud-based solution.
-        - Introduced DevOps principles to the SIG's community.
-        - Responsible for mission critical services including Hyper-V and Kubernetes.
+        - Migrated the dorm's mailing infrastructure to Exchange Online and part of its DNS service to the cloud.
+        - Ran mission-critical services including Hyper-V and Kubernetes.
     - heading:
         label: Research Assistant @ Budapest University of Technology and Economics
         startdate: February 2020
         enddate: January 2022
       points:
-        - Created a Kubernetes-native system in a 5G network that was capable of recognizing and identifying bird song.
-        - Adapted the system to an edge-computing environment.
-        - Analyzed the performance of and identified bottlenecks in the system.
+        - Created a Kubernetes-native system in a 5G network capable of identifying bird song.
+        - Adapted the system to an edge-computing environment and identified its performance bottlenecks.
     - heading:
         label: Research Intern @ Ericsson
         startdate: June 2019
         enddate: August 2019
       points:
-        - Built a TOSCA Parser for Ericsson's in-house infrastructure.
-        - Created an interface to connect the application to Ericsson's existing systems.
+        - Built a TOSCA parser and integrated it with Ericsson's in-house infrastructure.
         - Deployed Python web applications on Docker-based infrastructure.
 
   - heading: Skills
     points:
-      - Python scripts and Flask microservices with Celery workers
-      - Cisco and Linux network administration
-      - KVM and Hyper-V virtualization
-      - Cloud-native orchestration with Kubernetes, Terraform and Ansible
-      - CI with Jenkins, Drone, GitHub Actions, GitLab CI
-      - Various cloud platforms including AWS, Azure and on-prem cloud
+      - Kubernetes and OpenShift, with Helm for packaging and deployment
+      - Infrastructure as code with Terraform, Pulumi and Ansible
+      - CI/CD with Jenkins, Drone, GitHub Actions and GitLab CI
+      - AWS, Azure and on-prem cloud platforms
+      - Python for automation, internal tooling and Flask microservices
+      - Cisco, Juniper and Arista network administration on Linux-based infrastructure
+      - Hyper-V and KVM virtualization
+      - AI-assisted development with Cursor, GitHub Copilot, Claude and Perplexity
+      - Scrum facilitation and technical leadership of engineering teams
+
+  - heading: Community
+    points:
+      - Organize Ctrl-Alt-GG, a bilingual Hungarian and English gaming community in Budapest.
+      - Run LAN party events of roughly 50 attendees, building the event network, game servers and supporting services.
+
+  - heading: Languages
+    points:
+      - Hungarian (native)
+      - English (fluent)
+
+  - heading: Education
+    subsections:
+    - heading:
+        label: MSc in Computer Engineering @ BME
+        startdate: February 2020
+        enddate: January 2022
+    - heading:
+        label: BSc in Computer Engineering @ BME
+        startdate: September 2016
+        enddate: January 2020
