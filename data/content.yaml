@@ -26,6 +26,7 @@ sections:
         startdate: February 2024
       points:
       - Lead a DevOps team that has varied between 6 and 12 engineers.
+      - Evaluated approaches to AI-assisted code attribution and coded the tool that visualizes usage.
       - Stood up and now lead an internal Infra Team that owns the testing and development labs.
       - Drove build quality so QA receives a daily product build that has passed every R&D gate.
       - Helped build the R&D organization from inception, onboarding new teams and hardening processes as it grew.
