@@ -4,7 +4,7 @@ email: iam@tormakristof.eu
 
 sections:
   - heading: Summary
-    body: Technical lead and Scrum Master in DevOps and infrastructure at Nokia, working with Kubernetes, infrastructure as code and multi-cloud platforms, and building in-house AI tooling for engineering organizations from code review agents to adoption metrics.
+    body: Technical Lead and Scrum Master in DevOps and infrastructure at Nokia. Builds greenfield Kubernetes platforms with infrastructure as code, and in-house AI tooling from code review agents to adoption metrics.
 
   - heading: Experience
     subsections:
@@ -12,12 +12,12 @@ sections:
         label: Technical Lead and Scrum Master @ Nokia
         startdate: February 2024
       points:
-      - Built an in-house AI code review agent that runs at under a third the cost of the commercial alternative, and rolled it out across multiple organizations.
-      - Built a tool that visualizes AI-assisted code usage, after evaluating git-native approaches to attributing it.
-      - Lead a DevOps team of 6 to 12 engineers with the fastest bug turnaround in the R&D organization, averaging under a week from report to resolution.
-      - Established and now lead an internal Infra Team that built and owns the testing and development labs.
-      - Introduced the gating that gives QA one validated product build per day.
-      - Took part in building out the R&D organization from scratch, onboarding new teams and formalizing its processes as it grew.
+      - Built an in-house AI code review agent, now used by three R&D organizations, at under a third the cost of the commercial alternative.
+      - Built a tool that visualizes AI-assisted code usage across the organization.
+      - Run a DevOps team of up to 12 engineers, averaging under a week from bug report to resolution and the fastest of the R&D organization's six teams.
+      - Established an internal Infra Team that built and owns the testing and development labs.
+      - Introduced the CI quality gates that give QA one validated product build per day.
+      - Onboarded three teams into a greenfield R&D organization and formalized its development processes as it grew.
       - Co-authored the code review standards and the scope and change management processes with QA and product stakeholders.
     - heading:
         label: DevOps Engineer @ Nokia
@@ -31,23 +31,19 @@ sections:
       - Resolved Kubernetes issues and built Kubernetes competence across the developer teams.
       - Rewrote the developer documentation so new joiners could set up their environment without pairing with an existing engineer.
     - heading:
-        label: Group Lead @ KSZK, Schonherz Dormitory, BME
+        label: Group Lead @ KSZK, Schonherz Dormitory, BME (part-time, alongside MSc)
         startdate: February 2020
         enddate: February 2022
       points:
-        - Led KSZK, the roughly 50-member student IT group that runs the dormitory's network and server infrastructure.
-        - Set the group's technical direction, facilitated its meetings and introduced DevOps practices to the community.
-        - Brought the wider dormitory's requirements into the group and advocated for the group's needs in budget negotiations.
-        - Ran semesterly performance reviews for the group.
-        - Administered the mailing list server processing over 2,000 emails a day and ran mission-critical services including Hyper-V and Kubernetes.
+        - Led KSZK, the roughly 50-member student IT group that runs the dormitory's network and server infrastructure, and introduced DevOps practices to it.
+        - Administered the mailing list server processing over 2,000 emails a day and ran production services including Hyper-V and Kubernetes.
         - Migrated the dormitory's mail infrastructure to Exchange Online and its public-facing DNS zones to a managed cloud provider.
     - heading:
-        label: Research Assistant @ Budapest University of Technology and Economics
+        label: Research Assistant @ Budapest University of Technology and Economics (part-time, alongside MSc)
         startdate: February 2020
         enddate: January 2022
       points:
-        - Created a Kubernetes-native system in a 5G network capable of identifying bird song.
-        - Adapted the system to an edge-computing environment and identified its performance bottlenecks.
+        - Built a Kubernetes-native birdsong identification system over 5G as MSc thesis work, then adapted it to edge computing and profiled its bottlenecks.
     - heading:
         label: Research Intern @ Ericsson
         startdate: June 2019
@@ -58,11 +54,11 @@ sections:
 
   - heading: Skills
     points:
-      - AI-assisted development and in-house AI tooling built on Claude, Cursor, GitHub Copilot and Perplexity
-      - Kubernetes and OpenShift, with Helm for packaging and deployment
+      - AI-assisted development and in-house AI tooling built on Claude, Cursor and GitHub Copilot
+      - Kubernetes and OpenShift, with Helm for packaging and operators for cluster-native automation
       - Infrastructure as code with Terraform, Pulumi and Ansible
       - CI/CD with Jenkins, Drone, GitHub Actions and GitLab CI
-      - AWS, Azure and on-prem cloud platforms
+      - AWS, Azure and on-premises platforms
       - Python for automation, internal tooling and Flask microservices
       - Cisco, Juniper and Arista network administration on Linux-based infrastructure
       - Hyper-V and KVM virtualization
@@ -70,7 +66,7 @@ sections:
 
   - heading: Community
     points:
-      - Organize Ctrl-Alt-GG, a bilingual Hungarian and English gaming community in Budapest.
+      - Organize Ctrl-Alt-GG, a bilingual (Hungarian/English) gaming community in Budapest.
       - Run LAN party events of roughly 50 attendees, building the event network, game servers and supporting services.
 
   - heading: Languages
