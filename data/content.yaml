@@ -12,12 +12,12 @@ sections:
         label: Technical Lead and Scrum Master @ Nokia
         startdate: February 2024
       points:
-      - Built an in-house AI code review agent that undercut commercial tooling on cost, and rolled it out across multiple organizations.
+      - Built an in-house AI code review agent that runs at under a third the cost of the commercial alternative, and rolled it out across multiple organizations.
       - Built a tool that visualizes AI-assisted code usage, after evaluating git-native approaches to attributing it.
-      - Lead a DevOps team that has varied between 6 and 12 engineers.
-      - Established and now lead an internal Infra Team that owns the testing and development labs.
+      - Lead a DevOps team of 6 to 12 engineers with the fastest bug turnaround in the R&D organization, averaging under a week from report to resolution.
+      - Established and now lead an internal Infra Team that built and owns the testing and development labs.
       - Introduced the gating that gives QA one validated product build per day.
-      - Took part in building out the R&D organization, onboarding new teams and formalizing its processes as it grew.
+      - Took part in building out the R&D organization from scratch, onboarding new teams and formalizing its processes as it grew.
       - Co-authored the code review standards and the scope and change management processes with QA and product stakeholders.
     - heading:
         label: DevOps Engineer @ Nokia
