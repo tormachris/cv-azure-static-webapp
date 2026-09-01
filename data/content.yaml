@@ -4,7 +4,7 @@ email: iam@tormakristof.eu
 
 sections:
   - heading: Summary
-    body: Technical lead and Scrum Master in DevOps and infrastructure at Nokia, working with Kubernetes, infrastructure as code and multi-cloud platforms.
+    body: Technical lead and Scrum Master in DevOps and infrastructure at Nokia, working with Kubernetes, infrastructure as code and multi-cloud platforms, and building in-house AI tooling for engineering organizations from code review agents to adoption metrics.
 
   - heading: Experience
     subsections:
@@ -12,24 +12,24 @@ sections:
         label: Technical Lead and Scrum Master @ Nokia
         startdate: February 2024
       points:
-      - Lead a DevOps team that has varied between 6 and 12 engineers.
-      - Designed and shipped an AI code review agent, rolled out across multiple organizations after a cost analysis against commercial alternatives.
-      - Established and now lead an internal Infra Team that owns the testing and development labs.
-      - Helped build the R&D organization from inception, onboarding new teams and hardening processes as it grew.
-      - Drive build quality so QA receives a daily product build that has passed every R&D gate.
+      - Built an in-house AI code review agent that undercut commercial tooling on cost, and rolled it out across multiple organizations.
       - Built a tool that visualizes AI-assisted code usage, after evaluating git-native approaches to attributing it.
-      - Helped develop code review standards and scope and change management processes with QA and product stakeholders.
+      - Lead a DevOps team that has varied between 6 and 12 engineers.
+      - Established and now lead an internal Infra Team that owns the testing and development labs.
+      - Introduced the gating that gives QA one validated product build per day.
+      - Took part in building out the R&D organization, onboarding new teams and formalizing its processes as it grew.
+      - Co-authored the code review standards and the scope and change management processes with QA and product stakeholders.
     - heading:
         label: DevOps Engineer @ Nokia
         startdate: March 2022
         enddate: February 2024
       points:
       - Designed and implemented an internal API that provisions Kubernetes clusters on AWS and Azure via Pulumi.
-      - Simplified lab infrastructure and developed automations that cut the operational load of running the labs.
+      - Cut monthly AWS spend by 36% through a recurring cleanup of unused resources.
+      - Built self-service tooling for routine infrastructure tasks, taking the DevOps team out of the critical path for developer requests.
+      - Simplified lab infrastructure and developed automations that cut about 7 hours per week of manual maintenance.
       - Resolved Kubernetes issues and built Kubernetes competence across the developer teams.
-      - Built self-service tooling that let developers manage their own infrastructure tasks.
-      - Reduced monthly AWS spend by releasing unused resources on a recurring basis.
-      - Rewrote developer documentation to shorten onboarding for new joiners.
+      - Rewrote the developer documentation so new joiners could set up their environment without pairing with an existing engineer.
     - heading:
         label: Group Lead @ KSZK, Schonherz Dormitory, BME
         startdate: February 2020
@@ -38,9 +38,9 @@ sections:
         - Led KSZK, the roughly 50-member student IT group that runs the dormitory's network and server infrastructure.
         - Set the group's technical direction, facilitated its meetings and introduced DevOps practices to the community.
         - Brought the wider dormitory's requirements into the group and advocated for the group's needs in budget negotiations.
-        - Evaluated members' contributions, which counted toward their dormitory admission scores.
+        - Ran semesterly performance reviews for the group's roughly 50 members.
         - Administered the mailing list server processing over 2,000 emails a day and ran mission-critical services including Hyper-V and Kubernetes.
-        - Migrated the dormitory's mailing infrastructure to Exchange Online and part of its DNS service to the cloud.
+        - Migrated the dormitory's mail infrastructure to Exchange Online and its public-facing DNS zones to a managed cloud provider.
     - heading:
         label: Research Assistant @ Budapest University of Technology and Economics
         startdate: February 2020
@@ -58,6 +58,7 @@ sections:
 
   - heading: Skills
     points:
+      - AI-assisted development and in-house AI tooling built on Claude, Cursor, GitHub Copilot and Perplexity
       - Kubernetes and OpenShift, with Helm for packaging and deployment
       - Infrastructure as code with Terraform, Pulumi and Ansible
       - CI/CD with Jenkins, Drone, GitHub Actions and GitLab CI
@@ -65,7 +66,6 @@ sections:
       - Python for automation, internal tooling and Flask microservices
       - Cisco, Juniper and Arista network administration on Linux-based infrastructure
       - Hyper-V and KVM virtualization
-      - AI-assisted development with Cursor, GitHub Copilot, Claude and Perplexity
       - Scrum facilitation and technical leadership of engineering teams
 
   - heading: Community
