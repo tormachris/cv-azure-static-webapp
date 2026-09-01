@@ -38,7 +38,7 @@ sections:
         - Led KSZK, the roughly 50-member student IT group that runs the dormitory's network and server infrastructure.
         - Set the group's technical direction, facilitated its meetings and introduced DevOps practices to the community.
         - Brought the wider dormitory's requirements into the group and advocated for the group's needs in budget negotiations.
-        - Ran semesterly performance reviews for the group's roughly 50 members.
+        - Ran semesterly performance reviews for the group.
         - Administered the mailing list server processing over 2,000 emails a day and ran mission-critical services including Hyper-V and Kubernetes.
         - Migrated the dormitory's mail infrastructure to Exchange Online and its public-facing DNS zones to a managed cloud provider.
     - heading:
